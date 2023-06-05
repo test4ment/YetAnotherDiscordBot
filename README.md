@@ -3,6 +3,8 @@
 Стандартный префикс для команд - `/q`
 
 Бот разработан студентами группы ФИТ-221, Калицким Никитой (test4ment), Задорожным Александром (ymnick)
+
+Перед запуском указать нужный bot ID и ваш токен в файле `.env`
 ## Список команд
 `about`  `hello`  `dice`  `userinfo`  `selfinfo`  `serverinfo`  `weather`  `quote`  `kick`  `ban`  `clear`  `play`  `leave`  `poll`  `cat`  `remindme`  `bitcoin`  `catstatus`  `yesorno`
 ## Описание команд требующих аргумент
